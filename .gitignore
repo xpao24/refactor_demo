@@ -1,0 +1,11 @@
+#IDEA
+**/.idea/
+.DS_Store
+**/*.iml
+
+#Compile folder
+**/target/
+
+#log output
+**/logs/
+/.idea/vcs.xml
